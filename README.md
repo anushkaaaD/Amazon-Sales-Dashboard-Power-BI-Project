@@ -1,5 +1,5 @@
 # Amazon-Sales-Dashboard-Power-BI-Project
-# Amazon Sales Dashboard – Power BI Project
+
 
 ## 📌 Project Overview
 This project is an **interactive Power BI dashboard** developed to analyze and visualize sales performance for Amazon products across multiple regions in India. The dashboard provides **real-time insights** into overall sales, order status, product performance, and customer demand across cities and states. 
